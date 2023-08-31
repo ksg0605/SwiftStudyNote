@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		084A08CB2AA0B92200F37336 /* READMR.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = READMR.md; sourceTree = "<group>"; };
+		084A08CB2AA0B92200F37336 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		084A08C42AA0B8E500F37336 = {
 			isa = PBXGroup;
 			children = (
-				084A08CB2AA0B92200F37336 /* READMR.md */,
+				084A08CB2AA0B92200F37336 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
