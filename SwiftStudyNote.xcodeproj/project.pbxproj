@@ -8,14 +8,32 @@
 
 /* Begin PBXFileReference section */
 		084A08CB2AA0B92200F37336 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		084A08CE2AA0BDF000F37336 /* Lv0-qrcode.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Lv0-qrcode.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		084A08C42AA0B8E500F37336 = {
 			isa = PBXGroup;
 			children = (
+				084A08CD2AA0BB5D00F37336 /* DataStructureAlgorithms */,
+				084A08CC2AA0BB4600F37336 /* ProgrammersLv0 */,
 				084A08CB2AA0B92200F37336 /* README.md */,
 			);
+			sourceTree = "<group>";
+		};
+		084A08CC2AA0BB4600F37336 /* ProgrammersLv0 */ = {
+			isa = PBXGroup;
+			children = (
+				084A08CE2AA0BDF000F37336 /* Lv0-qrcode.md */,
+			);
+			path = ProgrammersLv0;
+			sourceTree = "<group>";
+		};
+		084A08CD2AA0BB5D00F37336 /* DataStructureAlgorithms */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DataStructureAlgorithms;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
